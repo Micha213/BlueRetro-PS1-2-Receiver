@@ -8,7 +8,7 @@ https://github.com/darthcloud/BlueRetro
 In this repo you will find the gerber file for the board and the .stl data for the case. In the [**Wiki**](https://github.com/Micha213/BlueRetro-PS1-2-Receiver/wiki) you will find all the information you need to build your own receiver.
 Many thanks to TharathielCB for helping with the wiki!
 
-If you have built one of my receivers, I would be happy if you share photos of it with me on Twitter: @mi213ger
+If you have built one of my receivers, I would be happy if you share photos of it with me on Twitter: [**@mi213ger**](https://twitter.com/mi213ger)
 
 Do you want to support the project? Then buy DarthCloud a coffee first: https://ko-fi.com/darthcloud
 
