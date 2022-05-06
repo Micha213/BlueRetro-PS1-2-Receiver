@@ -1,4 +1,7 @@
 # BlueRetro-PS1-2-Receiver
+
+![](https://github.com/Micha213/BlueRetro-PS1-2-Receiver/blob/main/Images%20for%20wiki/Home/3d1.png)
+
 ***A Bluetooth receiver for PS1/2 based on BlueRetro***
 
 This is my second version of a BlueRetro receiver for the PS1 and PS2.
